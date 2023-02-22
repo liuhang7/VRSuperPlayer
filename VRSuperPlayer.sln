@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VRSuperPlayer", "VRSuperPlayer\VRSuperPlayer.vcxproj", "{974961EE-1B2D-4CF0-9AC7-3B967CC4E699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{974961EE-1B2D-4CF0-9AC7-3B967CC4E699}.Debug|x64.ActiveCfg = Debug|x64
+		{974961EE-1B2D-4CF0-9AC7-3B967CC4E699}.Debug|x64.Build.0 = Debug|x64
+		{974961EE-1B2D-4CF0-9AC7-3B967CC4E699}.Release|x64.ActiveCfg = Release|x64
+		{974961EE-1B2D-4CF0-9AC7-3B967CC4E699}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84F8DBC7-22D9-4DE6-9471-B85D805564E9}
+	EndGlobalSection
+EndGlobal
